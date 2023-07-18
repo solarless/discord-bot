@@ -1,0 +1,12 @@
+*.egg-info/
+.venv/
+.vscode/
+__pycache__/
+migrations/
+scripts/
+
+.dockerignore
+.env
+.gitignore
+docker.sh
+Dockerfile
